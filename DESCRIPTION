@@ -1,0 +1,15 @@
+Package: phenosim
+Type: Package
+Title: Simulation of Additive and Dominant Phenotypes
+Version: 0.1
+Date: 2017-03-01
+Encoding: UTF-8
+Author: Hervé Perdry 
+Maintainer: Hervé Perdry <herve.perdry@u-psud.fr>
+Description: Simulation of Additive and Dominant Phenotypes
+License: GPL-3
+LinkingTo: Rcpp, RcppParallel, gaston
+Depends: Rcpp, RcppParallel, gaston
+NeedsCompilation: yes
+LazyLoad: yes
+LazyData: yes
