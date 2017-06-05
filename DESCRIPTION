@@ -8,7 +8,7 @@ Author: Hervé Perdry
 Maintainer: Hervé Perdry <herve.perdry@u-psud.fr>
 Description: Simulation of Additive and Dominant Phenotypes
 License: GPL-3
-LinkingTo: Rcpp, RcppParallel, gaston
+LinkingTo: Rcpp, RcppParallel, RcppEigen, gaston
 Depends: Rcpp, RcppParallel, gaston
 NeedsCompilation: yes
 LazyLoad: yes

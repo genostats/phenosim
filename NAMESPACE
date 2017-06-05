@@ -10,3 +10,4 @@ importFrom("RcppParallel", "setThreadOptions", "defaultNumThreads")
 useDynLib(phenosim)
 
 export(pheno.additive, pheno.dominant)
+export(lmm.restricted.likelihood, lmm.profile.restricted.likelihood)
